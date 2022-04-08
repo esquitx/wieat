@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "248543422232",
+    "project_id": "wieat-2287a",
+    "storage_bucket": "wieat-2287a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248543422232:android:ee202a4c307657fe82a06d",
+        "android_client_info": {
+          "package_name": "com.ddesotto.wieat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248543422232-ucosul31vejmmdh767tkq47qhdqtbj7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ddesotto.wieat",
+            "certificate_hash": "717440053fe43dcf8f659af99bd1f42ff56f7f75"
+          }
+        },
+        {
+          "client_id": "248543422232-erkqu1e59eub4i8fqmmumgbrf3t8t5tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIfHR4oEz1umrx2_QVkHgM7rzAGC_u9aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248543422232-erkqu1e59eub4i8fqmmumgbrf3t8t5tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
